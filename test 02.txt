@@ -1,2 +1,2 @@
 
-this file for Git Gui
+this is file for Git Gui
